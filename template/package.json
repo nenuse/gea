@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nenuse/tquery": "^1.0.0"
+  }
+}

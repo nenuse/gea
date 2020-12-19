@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "A tool you can use to build light and optimized landing pages in a simple way",
   "main": "index.js",
+  "bin": {
+    "gea-land": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/nenuse/gea-land/issues"
   },
-  "homepage": "https://github.com/nenuse/gea-land#readme"
+  "homepage": "https://github.com/nenuse/gea-land#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "minimist": "^1.2.5"
+  }
 }
