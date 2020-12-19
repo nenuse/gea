@@ -1,0 +1,24 @@
+{
+  "name": "gea-land",
+  "version": "0.0.2",
+  "description": "A tool you can use to build light and optimized landing pages in a simple way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenuse/gea-land.git"
+  },
+  "keywords": [
+    "lightweight",
+    "landing",
+    "static"
+  ],
+  "author": "nenuse",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/nenuse/gea-land/issues"
+  },
+  "homepage": "https://github.com/nenuse/gea-land#readme"
+}
